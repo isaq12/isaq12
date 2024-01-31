@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey, I'm Ishaque 👋🏽
 
-<!--
-**isaq12/isaq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 26-year-old developer and graduate student based in the US, currently pursuing a Master's in Computer Science at Northeastern Illinois University (NEIU). My enthusiasm lies in creating innovative digital solutions and enhancing user experiences.
 
-Here are some ideas to get you started:
+Check out my portfolio to learn more about me!
+Connect with me on LinkedIn for updates on journey.
+Take a look at the browser extensions I've developed for Microsoft Edge and Google Chrome, designed to thwart Malware in real-time as you navigate the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Fun Facts
+Ever since I was young, I've had a zeal for assembling PCs from the ground up—it's a hobby that allows me to merge my love for technology with hands-on creativity.
+
+📫 Contact
+Reach out to me on LinkedIn for a prompt reply, whether it's about collaboration or just to exchange ideas.
