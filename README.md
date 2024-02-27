@@ -4,7 +4,7 @@ I'm an aspiring software developer and a graduate student, currently pursuing a 
 
 - Check out my portfolio to learn more about me!
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ishaque12/) for updates on journey.
-- Take a look at the browser extensions I've developed for Microsoft Edge and Google Chrome, designed to thwart Malware in real-time as you navigate the web. [Malware URL Blocker](https://malware-blocker.com)
+- Take a look at the browser extension I've developed for Microsoft Edge, designed to thwart Malware in real-time as you navigate the web. [Malware URL Blocker](https://malware-blocker.com)
 
 ## ✨ Fun Facts 
 
